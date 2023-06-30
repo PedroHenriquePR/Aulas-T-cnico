@@ -1,2 +1,2 @@
-# Aulas-T-cnico
+# Aulas-Tecnico
 aulas de técnico
